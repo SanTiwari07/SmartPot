@@ -46,7 +46,10 @@ It monitors **temperature, humidity, and soil moisture** in real-time, alerts th
 ---
 
 ## 📷 Wokwi Setup Screenshot  
-<img width="634" height="717" alt="image" src="https://github.com/user-attachments/assets/2c804661-e4b6-4ef5-bf70-297aa0ff94a7" />
+<div style="text-align: center;">
+  <img width="634" height="717" alt="image" src="https://github.com/user-attachments/assets/2c804661-e4b6-4ef5-bf70-297aa0ff94a7" />
+</div>
+
 
 
 ---
