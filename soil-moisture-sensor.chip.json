@@ -1,0 +1,22 @@
+{
+  "name": "soil moisture sensor",
+  "author": "katsumi",
+  "pins": [
+    "",
+    "",
+    "",
+    "SIG",
+    "GND",
+    "VCC"
+  ],
+  "controls": [
+    {
+      "id": "moisture",
+      "label": "Soil Moisture",
+      "type": "range",
+      "min": 0,
+      "max": 4095,
+      "step": 1
+    }
+  ]
+}
